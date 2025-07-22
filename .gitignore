@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+
+# Backups
+backups/
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Executables (if any are built directly in the workspace)
+*.run
+*.squashfs
+
+# Logs
+*.log

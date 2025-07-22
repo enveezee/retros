@@ -1,0 +1,1 @@
+{"name": "my_first_game", "version": "1.0", "description": "A retro package for my_first_game", "emulator": "dosbox", "emulator_path": "/usr/bin/dosbox", "emulator_args": [], "game_path_in_package": "game.txt", "run_command": "game.exe", "original_source_name": "some_game", "dependencies": []}

@@ -1,0 +1,2 @@
+[console_scripts]
+retros = retros.cli:main
